@@ -1,87 +1,82 @@
-<h1 align="center">Hi, I'm Syed Ali Ahmed 👋</h1>
+<h2 align="left">Hi 👋! I'm Syed Ali Ahmed — Shopify App Developer & Laravel Engineer from Pakistan 🇵🇰</h2>
 
-<p align="center">
-  💻 Shopify App Developer | 🧠 AI Explorer | 🛠️ Laravel & React Specialist
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AliAhmed004&label=Profile%20views&color=brightgreen&style=flat" alt="AliAhmed004" />
-</p>
+I'm a passionate Software Engineer with **4+ years** of experience building powerful **Shopify apps**, scalable backends, and smart AI integrations.  
+I specialize in solving real-world problems for ecommerce businesses using **Laravel**, **React**, **GPT-4**, and modern APIs.
 
 ---
 
-### 🚀 About Me
+### 🚀 Featured Shopify Apps
 
-I’m a passionate Software Engineer with **4+ years** of experience building powerful **Shopify apps**, scalable web tools, and smart automation using **Laravel**, **React**, and **AI integrations**.
+🔹 **[GoodAuthentic](https://apps.shopify.com/goodauthentic-ugc?st_source=autocomplete&surface_detail=autocomplete_apps)**  
+Automates customer video review collection via post-purchase emails and rewards, helping merchants collect and approve authentic UGC.  
+🛠 Tech: Laravel · React · REST API
 
-🧩 I specialize in solving real business problems for Shopify merchants — from customer engagement to ad optimization.  
-🧠 Exploring how AI (like GPT-4) and automation can reshape ecommerce and support systems.  
-🎯 My mission: Build tools that are both smart and simple.
+🔹 **[SoleRank](https://apps.shopify.com/solerank?st_source=autocomplete&surface_detail=autocomplete_apps)**  
+Boosts Google Merchant Center visibility by fixing GTIN errors and optimizing product feeds for sneaker stores.  
+🛠 Tech: Laravel · React · GraphQL · REST API
+
+🔹 **[StoreBot AI](https://apps.shopify.com/store-bot-ai)**  
+GPT-4 powered chatbot for Shopify that handles order questions, cancellations, and product recommendations with chat analytics.  
+🛠 Tech: Laravel · React · GPT-4 · AI · GraphQL
+
+🌐 **Portfolio:** [https://portfolio-steel-tau-89.vercel.app/](https://portfolio-steel-tau-89.vercel.app/)
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AliAhmed004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AliAhmed004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
+
+---
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ---
 
 ### 🧰 Tech Stack
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge)
-![SOAP](https://img.shields.io/badge/SOAP_API-007396?style=for-the-badge)
-![GPT-4](https://img.shields.io/badge/OpenAI_GPT--4-8A2BE2?style=for-the-badge)
-![AI](https://img.shields.io/badge/AI_Integrations-00C853?style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="Laravel" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="GraphQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/REST_API-FF6F00?style=flat-square&logo=api&logoColor=white" height="30" alt="REST API" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/SOAP_API-007396?style=flat-square&logoColor=white" height="30" alt="SOAP" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GPT_4-8A2BE2?style=flat-square&logo=openai&logoColor=white" height="30" alt="GPT-4" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+</div>
 
 ---
 
-### 🌟 Featured Shopify Apps
+### 📬 Connect With Me
 
-#### 🔹 [GoodAuthentic – UGC Video Reviews](https://apps.shopify.com/goodauthentic-ugc?st_source=autocomplete&surface_detail=autocomplete_apps)
-> Collect customer video testimonials with ease. Post-purchase emails ask users for videos, reward them with gift cards, and help merchants showcase real, authentic content.  
-> 💡 *Build trust and boost conversions with zero friction.*  
-**Tech:** Laravel · React · REST API
-
----
-
-#### 🔹 [SoleRank – Google Shopping Optimizer](https://apps.shopify.com/solerank?st_source=autocomplete&surface_detail=autocomplete_apps)
-> Fix "Limited Performance" errors in Google Merchant Center. SoleRank automatically adds GTINs and optimizes feeds to boost product visibility and ad performance.  
-> 🚀 *One-click ad improvement for sneaker stores and beyond.*  
-**Tech:** Laravel · React · GraphQL · REST API
-
----
-
-#### 🔹 [StoreBot AI – ChatGPT Assistant for Stores](https://apps.shopify.com/store-bot-ai)
-> A smart AI chatbot using GPT-4 that handles product queries, order questions, cancellations, and recommendations — all inside the chat. Comes with analytics for merchants.  
-> 🤖 *24/7 AI-powered customer support for your store.*  
-**Tech:** Laravel · React · GPT-4 · AI · GraphQL
+<div align="left">
+  <a href="mailto:syedaliahmed.business@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" />
+</div>
 
 ---
 
-### 🧑‍💼 My Portfolio
+<br clear="both">
 
-Check out more of my work here:  
-🌐 **[My Portfolio Website →](https://portfolio-steel-tau-89.vercel.app/)**
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliAhmed004&show_icons=true&theme=tokyonight&hide_border=true" alt="Ali's GitHub Stats" />
-</p>
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ---
-
-### 📬 Let’s Connect
-
-- 📧 Email: **syedaliahmed.business@gmail.com**
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile) _(update this!)_
-- 🧑‍💻 [My Portfolio](https://portfolio-steel-tau-89.vercel.app/)
-- 🌟 Want to collaborate? Let’s build something awesome.
-
----
-
-_Thanks for visiting! Let's connect and create powerful solutions together._ 🚀
