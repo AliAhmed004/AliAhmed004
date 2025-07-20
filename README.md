@@ -43,7 +43,7 @@ GPT-4 powered chatbot for Shopify that handles order questions, cancellations, a
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="Laravel" />
+  <img src="https://avatars.githubusercontent.com/u/958072?s=48&v=4" height="30" alt="Laravel" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="GraphQL" />
   <img width="12" />
